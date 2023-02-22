@@ -1,4 +1,4 @@
--qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" https://aurora.volkovdesign.com/ -O1 "C:\My Web Sites\LuftLabs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" https://luftlabs.org/ -O1 "C:\My Web Sites\LuftLabs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 File generated automatically on Wed, 22 Feb 2023 17:23:31, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
